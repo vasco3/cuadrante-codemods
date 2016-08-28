@@ -32,7 +32,7 @@ Will do the following
 +const fs = require('fs');
 
 -import {getWhatever, findWhatever} from 'library'
-+const library = require('library');
++const {getWhatever, findWhatever} = require('library');
 
 -import settings from './settings';
 +const settings = require('./settings');
