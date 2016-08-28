@@ -1,5 +1,7 @@
 # cuadrante-codemods
 
+[![Known Vulnerabilities](https://snyk.io/test/github/vasco3/cuadrante-codemods/badge.svg)](https://snyk.io/test/github/vasco3/cuadrante-codemods)
+
 Code modifiers using jscodeshift
 
 > Thanks to Node v6 now we don't need babel to run ES2015 in our servers.
