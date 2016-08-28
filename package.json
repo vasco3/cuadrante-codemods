@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vasco3/cuadrante-codemods/issues"
   },
-  "homepage": "https://github.com/vasco3/cuadrante-codemods#readme"
+  "homepage": "https://github.com/vasco3/cuadrante-codemods#readme",
+  "devDependencies": {
+    "eslint": "^3.3.1"
+  }
 }
