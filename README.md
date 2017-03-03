@@ -60,3 +60,15 @@ Will do the following
 +exports.MARKER_REMOVED_OUT = 'MARKER_REMOVED_OUT';
 ```
 
+
+## Explore
+
+www.astexplorer.net
+parser: Recast
+transformer: jscodeshift
+
+### AST Types
+
+Look for the builder method
+
+https://github.com/benjamn/ast-types
