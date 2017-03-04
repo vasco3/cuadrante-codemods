@@ -72,3 +72,7 @@ transformer: jscodeshift
 Look for the builder method
 
 https://github.com/benjamn/ast-types
+
+## Inspiration
+
+- [Converts commonJS requires to es6 imports](https://gist.github.com/dmnd/12cad812c3f969e4f76c)
